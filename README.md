@@ -6,6 +6,7 @@ Hi, Im Casandra Tabuzo Lopez. Currently a college student in City College of Ang
 - College: City College of Angeles (BSIS)
 - High School: Northville 15 Integrated School
 - Elementary: Northville 15 Integrated School
+  
 ### My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/CasandraLopez-sey/EDM/tree/main/Midterm%20Lab%20Task%201)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/CasandraLopez-sey/EDM/tree/main/Midterm%20Lab%20Task%202)
