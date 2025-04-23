@@ -7,7 +7,7 @@ It includes employees, departments, managers, and their relationships with proje
 
 
 ### Employees_Table
-![sample Output](images/task11.PNG)
+![sample Output](images/task1.PNG)
 
 
 ### Employees Table Structure 
