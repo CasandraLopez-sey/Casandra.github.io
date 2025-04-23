@@ -30,7 +30,7 @@ It includes employees, departments, managers, and their relationships with proje
 ![sample Output](images/TASK3.1.PNG)
 
 
-### Task 4: Employee_Projects_Table
+### Employee_Projects_Table
 ![sample Output](images/TASK4.1.PNG)
 
 
@@ -38,7 +38,7 @@ It includes employees, departments, managers, and their relationships with proje
 ![sample Output](images/TASK4.1.PNG)
 
 
-### Task 5: Managers_Table
+### Managers_Table
 ![sample Output](images/TASK5.1.PNG)
 
 
