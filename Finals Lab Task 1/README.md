@@ -7,47 +7,47 @@ It includes employees, departments, managers, and their relationships with proje
 
 
 ### Employees_Table
-![sample Output](images/TASK1.1.PNG)
+![sample Output](images/task11.PNG)
 
 
 ### Employees Table Structure 
-![sample Output](images/TASK1.1.PNG)
+![sample Output](images/str1.PNG)
 
 
 ### Departments_Table
-![sample Output](images/TASK2.1.PNG)
+![sample Output](images/task2.PNG)
 
 
 ### Departments Table Structure 
-![sample Output](images/TASK2.1.PNG)
+![sample Output](images/str2.PNG)
 
 
 ### Employee_Departments_Table
-![sample Output](images/TASK3.1.PNG)
+![sample Output](images/task3.PNG)
 
 
 ### Employees Department Table Structure 
-![sample Output](images/TASK3.1.PNG)
+![sample Output](images/str3.PNG)
 
 
 ### Employee_Projects_Table
-![sample Output](images/TASK4.1.PNG)
+![sample Output](images/task4.PNG)
 
 
 ### Employees Project Table Structure 
-![sample Output](images/TASK4.1.PNG)
+![sample Output](images/str4.PNG)
 
 
 ### Managers_Table
-![sample Output](images/TASK5.1.PNG)
+![sample Output](images/task5.PNG)
 
 
 ### Manager Table Structure 
-![sample Output](images/TASK5.1.PNG)
+![sample Output](images/str5.PNG)
 
 
 
 ### EER Diagram
 This diagram shows a visual representation of the relationships among the tables.
-![sample Output](images/EER.PNG)
+![sample Output](images/erd1.PNG)
 
