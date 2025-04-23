@@ -16,3 +16,4 @@ Hi, Im Casandra Tabuzo Lopez. Currently a college student in City College of Ang
 ## FINALS
 - Finals Lab Task 1: [Multi Level Company Database](https://github.com/CasandraLopez-sey/Casandra.github.io/blob/main/Finals%20Lab%20Task%201/README.md)
 - Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/CasandraLopez-sey/Casandra.github.io/tree/main/Finals%20Lab%20Task%202%20)
+- Finals Lab Task 3: [Table Manipulation](https://github.com/CasandraLopez-sey/Casandra.github.io/tree/main/Finals%20Lab%20Task%203)
