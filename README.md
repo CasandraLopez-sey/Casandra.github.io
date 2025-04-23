@@ -14,4 +14,4 @@ Hi, Im Casandra Tabuzo Lopez. Currently a college student in City College of Ang
 - Midterm Lab Task 3: [Creating Pivot table and Dashboard](https://github.com/CasandraLopez-sey/EDM/tree/main/Midterm%20Lab%20Task%203)
 
 ## FINALS
--Finals Lab Task 1: [Multi Level Company Database](https://github.com/CasandraLopez-sey/Casandra.github.io/blob/main/Finals%20Lab%20Task%201/README.md)
+- Finals Lab Task 1: [Multi Level Company Database](https://github.com/CasandraLopez-sey/Casandra.github.io/blob/main/Finals%20Lab%20Task%201/README.md)
