@@ -42,3 +42,7 @@
 # Table structure 5
 
 ![Sample Output](images/str5.PNG)
+
+# SQL copy of the database and table structures
+
+![Sample Output](images/ss1.PNG)
