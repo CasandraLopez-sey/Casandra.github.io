@@ -1,3 +1,4 @@
+
 ### EDM
 This portfolio will have a copy of my lab activities in EDM.
 ### About Me
@@ -9,12 +10,12 @@ Hi, Im Casandra Tabuzo Lopez. Currently a college student in City College of Ang
   
 ### My Projects
 ## MIDTERM
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterms%20Lab%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](Midterms%20Lab%20Task%202/README.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterms%20Lab%20Task%201)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](Midterms%20Lab%20Task%202)
 - Midterm Lab Task 3: [Creating Pivot table and Dashboard](Midterms%20Lab%20Task%203)
 
 ## FINALS
-- Finals Lab Task 1: [Multi Level Company Database](Finals%20Lab%20Task%201/README.md)
+- Finals Lab Task 1: [Multi Level Company Database](Finals%20Lab%20Task%201)
 - Finals Lab Task 2: [Transform ER into Relational Tables](Finals%20Lab%20Task%202%20)
 - Finals Lab Task 3: [Table Manipulation](Finals%20Lab%20Task%203)
 - Finals Lab Task 3-1: [Using select clause](Finals%20Lab%20Task%203-1)
