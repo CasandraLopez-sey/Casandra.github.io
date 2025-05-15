@@ -42,4 +42,8 @@
 
 ![Sample Output](images/s4.png)
 
+# SQL COPY
+
+![Sample Output](images/sql.png)
+
 
