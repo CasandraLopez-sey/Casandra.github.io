@@ -4,6 +4,7 @@ For this task, we are given initial query in order to used and develop hands-on 
 ## Here’s the Query Statements
 
 First, select the database you want to work with in MongoDB.
+
 use mongo_practice
 ### Create Database
 
