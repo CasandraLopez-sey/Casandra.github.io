@@ -8,7 +8,7 @@ First, select the database you want to work with in MongoDB.
 use mongo_practice
 ### Create Database
 
-![Sample Output](images/)
+![Sample Output](images/db.png)
 
 ### Insert Documents
 
