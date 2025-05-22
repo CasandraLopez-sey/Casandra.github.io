@@ -12,9 +12,21 @@ use mongo_practice
 
 ### Insert Documents
 
-![Sample Output](images/)
+![Sample Output](images/ins1.png)
 
-![Sample Output](images/)
+![Sample Output](images/ins2.png)
+
+![Sample Output](images/ins3.png)
+
+![Sample Output](images/ins4.png)
+
+![Sample Output](images/ins5.png)
+
+![Sample Output](images/ins6.png)
+
+![Sample Output](images/ins7.png)
+
+![Sample Output](images/ins8.png)
 
 ### Query Find
 db.movies.find()
