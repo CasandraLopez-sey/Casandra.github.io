@@ -64,23 +64,25 @@ db.movies.find()
 
 db.movies.find({writer:”Quentin Tarantino”})
 
-![Sample Output](images/)
+![Sample Output](images/fa.png)
 
 db.movies.find({actors:”Brad Pitt”})
 
-![Sample Output](images/)
+![Sample Output](images/fs.png)
 
 db.movies.find({franchise:”The Hobbit”})
 
-![Sample Output](images/)
+![Sample Output](images/fd.png)
 
 db.movies.find({year:{$gt:”1990”, $lt:”2000”}})
 
-![Sample Output](images/)
+![Sample Output](images/ff.png)
 
 db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
 
-![Sample Output](images/)
+![Sample Output](images/fg.png)
+
+![Sample Output](images/fg1.png)
 
 ## Update Documents
 
