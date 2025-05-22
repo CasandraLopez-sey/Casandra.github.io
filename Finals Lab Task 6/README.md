@@ -6,11 +6,11 @@ For this task, we are given initial query in order to used and develop hands-on 
 First, select the database you want to work with in MongoDB.
 
 use mongo_practice
-### Create Database
+## Create Database
 
 ![Sample Output](images/db.png)
 
-### Insert Documents
+## Insert Documents
 
 ![Sample Output](images/1.png)
 
@@ -51,7 +51,7 @@ use mongo_practice
 
 ![Sample Output](images/ins8.png)
 
-### Query Find
+## Query Find
 db.movies.find()
 
 ![Sample Output](images/f1.png)
@@ -82,7 +82,7 @@ db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
 
 ![Sample Output](images/)
 
-### Update Documents
+## Update Documents
 
 db.movies.update({_id:ObjectId(&quot;5c9f98e5e5c2dfe9b3729bfe&quot;)}, {$set:{synopsis:&quot;A reluctant
 hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to
@@ -102,7 +102,7 @@ Jackson&quot;}})
 ![Sample Output](images/)
 
 
-### Text Search
+## Text Search
 
 db.movies.find({synopsis:{$regex:&quot;Bilbo&quot;}})
 
@@ -125,7 +125,7 @@ db.movies.find({$and:[{synopsis:{$regex:&quot;gold&quot;}}, {synopsis:{$regex:&q
 ![Sample Output](images/)
 
 
-### Delete Documents
+## Delete Documents
 
 db.movies.remove({_id:ObjectId(&quot;5c9f992ae5c2dfe9b3729c00&quot;)})
 
