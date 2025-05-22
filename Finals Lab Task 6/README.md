@@ -12,19 +12,42 @@ use mongo_practice
 
 ### Insert Documents
 
+![Sample Output](images/1.png)
+
 ![Sample Output](images/ins1.png)
+
+
+![Sample Output](images/2.png)
 
 ![Sample Output](images/ins2.png)
 
+
+![Sample Output](images/3.png)
+
 ![Sample Output](images/ins3.png)
+
+
+![Sample Output](images/4.png)
 
 ![Sample Output](images/ins4.png)
 
+
+![Sample Output](images/5.png)
+
 ![Sample Output](images/ins5.png)
+
+
+![Sample Output](images/6.png)
 
 ![Sample Output](images/ins6.png)
 
+
+![Sample Output](images/7.png)
+
 ![Sample Output](images/ins7.png)
+
+
+![Sample Output](images/8.png)
 
 ![Sample Output](images/ins8.png)
 
