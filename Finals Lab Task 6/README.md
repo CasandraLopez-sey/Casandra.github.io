@@ -54,9 +54,13 @@ use mongo_practice
 ### Query Find
 db.movies.find()
 
-![Sample Output](images/)
+![Sample Output](images/f1.png)
 
-![Sample Output](images/)
+![Sample Output](images/f2.png)
+
+![Sample Output](images/f3.png)
+
+![Sample Output](images/f4.png)
 
 db.movies.find({writer:”Quentin Tarantino”})
 
